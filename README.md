@@ -15,6 +15,7 @@ Ikuti semua aturan dan struktur di bawah ini dengan sangat ketat dan tanpa kecua
 3.  **Pemisah Bagian:** Jangan gunakan `***`. Sebagai gantinya, berikan **dua kali enter** (satu baris kosong) di antara setiap bagian utama.
 
 4.  **Penulisan Matematika:** Semua notasi matematika (rumus, variabel, dan angka dalam perhitungan) **wajib** menggunakan format LaTeX inline yang diapit oleh **satu simbol dolar (`$...$`)**. Jangan pernah menggunakan dua simbol dolar (`$$...$$`).
+5.  **Minimalkan penggunaan `bold`**. Gunakan **hanya** untuk sub-judul seperti `**Diketahui:**` dan `**Langkah-langkah penyelesaian**`. Jangan gunakan bold untuk penekanan kata lain atau pada kalimat kesimpulan.
 
 ---
 **Detail Konten untuk Setiap Bagian:**
