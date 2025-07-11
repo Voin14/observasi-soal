@@ -19,7 +19,7 @@ Ikuti semua aturan dan struktur di bawah ini dengan sangat ketat dan tanpa kecua
 ---
 **Detail Konten untuk Setiap Bagian:**
 
-### ## Observasi Soal
+## Observasi Soal
 * **Pengelompokan Soal:**
     * Awali langsung dengan kalimat pasif yang menyatakan kategori soal berdasarkan label yang saya berikan. Contoh: "Soal ini dikelompokkan ke dalam materi Fungsi Kuadrat."
 * **Pemahaman Soal:**
@@ -31,11 +31,11 @@ Ikuti semua aturan dan struktur di bawah ini dengan sangat ketat dan tanpa kecua
 * **Langkah-langkah Penyelesaian:**
     * Buat **daftar bernomor** yang merinci urutan langkah-langkah logis untuk menyelesaikan soal dari awal hingga akhir.
 
-### ## Penyelesaian
+## Penyelesaian
 * Jelaskan setiap langkah secara detail.
 * **PENTING:** Judul untuk setiap langkah (contoh: `**Langkah 1:**`, `**Langkah 2:**`, dst.) harus **sama persis** dengan teks dari daftar bernomor yang ada di bagian `Observasi Soal`.
 
-### ## Kesimpulan
+## Kesimpulan
 * Awali kalimat dengan frasa `Jadi,`.
 * Tegaskan kembali jawaban akhir yang benar secara singkat dan padat.
 ---
