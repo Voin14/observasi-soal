@@ -16,6 +16,7 @@ Ikuti semua aturan dan struktur di bawah ini dengan sangat ketat dan tanpa kecua
 
 4.  **Penulisan Matematika:** Semua notasi matematika (rumus, variabel, dan angka dalam perhitungan) **wajib** menggunakan format LaTeX inline yang diapit oleh **satu simbol dolar (`$...$`)**. Jangan pernah menggunakan dua simbol dolar (`$$...$$`).
 5.  **Minimalkan penggunaan `bold`**. Gunakan **hanya** untuk sub-judul seperti `**Diketahui:**` dan `**Langkah-langkah penyelesaian**`. Jangan gunakan bold untuk penekanan kata lain atau pada kalimat kesimpulan.
+6.  **"Untuk semua tabel, gunakan format LaTeX `\begin{array}` dalam satu baris tunggal yang diapit oleh satu simbol dolar (`$`)."**
 
 ---
 **Detail Konten untuk Setiap Bagian:**
